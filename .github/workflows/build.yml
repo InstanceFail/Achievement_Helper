@@ -23,3 +23,12 @@ jobs:
 
       - name: Build with Gradle
         run: ./gradlew build
+
+      - name: Check translations and guides
+        run: python3 scripts/check_resources.py
+
+      - name: Upload mod and sources
+        uses: actions/upload-artifact@v4
+        with:
+          name: achievement-helper
+          path: build/libs/*.jar

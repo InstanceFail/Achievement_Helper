@@ -36,6 +36,7 @@ base {
 
 // Mojang ships Java 25 to end users in 26.1.2, so mods should target Java 25.
 java.toolchain.languageVersion = JavaLanguageVersion.of(25)
+java.withSourcesJar()
 
 neoForge {
     // Specify the version of NeoForge to use.
@@ -181,4 +182,18 @@ idea {
         downloadSources = true
         downloadJavadoc = true
     }
+}
+
+// Optional real-client integration harness; never included in the release JAR.
+if (providers.gradleProperty('smokeTest').isPresent()) {
+    sourceSets {
+        smoke {
+            compileClasspath += sourceSets.main.output + sourceSets.main.compileClasspath
+            runtimeClasspath += sourceSets.main.output + sourceSets.main.runtimeClasspath
+        }
+    }
+    neoForge.mods {
+        achievement_helper { sourceSet(sourceSets.smoke) }
+    }
+    neoForge.runs.client.gameDirectory = file('run-smoke')
 }

@@ -1,0 +1,82 @@
+id	en_us	zh_cn
+key.achievement_helper.open	Open Achievement Helper	打开全进度助手
+key.category.achievement_helper.main	Achievement Helper	全进度助手
+ah.title	Achievement Helper	全进度助手
+ah.hud.settings	HUD settings	追踪栏设置
+ah.hud.drag	Drag the outlined tracker to move it	拖动描边的追踪栏调整位置
+ah.hud.reset	Reset defaults	恢复默认
+ah.hud.values	X: %s%%  Y: %s%%  Size: %s%%	横向：%s%%  纵向：%s%%  大小：%s%%
+ah.hud.preview	Tracked advancement	追踪进度预览
+ah.search	Search title or ID...	搜索名称或 ID…
+ah.overall	Overall: %s / %s  ·  %s%%	总体完成度：%s / %s  ·  %s%%
+ah.status.0	All advancements	全部进度
+ah.status.1	Incomplete	未完成
+ah.status.2	Completed	已完成
+ah.status.3	Tracked	正在追踪
+ah.category.all	All categories	全部分类
+ah.category.story	Minecraft	Minecraft
+ah.category.nether	Nether	下界
+ah.category.end	The End	末地
+ah.category.adventure	Adventure	冒险
+ah.category.husbandry	Husbandry	农牧业
+ah.category.modded	Other / modded	其他 / 模组
+ah.close	Done	完成
+ah.track	Track	追踪
+ah.untrack	Stop tracking	取消追踪
+ah.track_limit	Limit: 5 tracked	最多追踪 5 项
+ah.wiki	Wiki guide ↗	Wiki 攻略 ↗
+ah.checklist.0	Checklist: all	清单：全部
+ah.checklist.1	Checklist: remaining	清单：未完成
+ah.checklist.2	Checklist: completed	清单：已完成
+ah.no_sync	Waiting for world data. Multiplayer servers must also install Achievement Helper to provide the full checklist.	正在等待世界数据。多人服务器也需要安装全进度助手，才能提供完整进度清单。
+ah.empty	No matching advancements.	没有符合筛选条件的进度。
+ah.how	How to complete	完成方法
+ah.simultaneous_effects	Required at the same time (not cumulative):	需要同时拥有的效果（不是累计收集）：
+ah.requirements	Requirement checklist	条件清单
+ah.requirements_help	Every group is required. Inside an “any of” group, one option is enough. Percentages count completed groups.	需要满足每一组条件。“任选一项”组中满足一项即可。百分比按已完成的条件组计算。
+ah.any_of	Group %s · %s · any of:	第 %s 组 · %s · 任选一项：
+ah.done	Completed	已完成
+ah.remaining	Remaining	未完成
+ah.guide.fallback	Follow the in-game description above and complete the required groups below. Custom advancements may have additional rules defined by their mod or data pack.	根据上方的游戏说明，完成下方要求的条件组。自定义进度可能有模组或数据包规定的额外规则。
+criterion.achievement_helper.tabby	Tabby cat	虎斑猫
+criterion.achievement_helper.black	Tuxedo cat	西服猫
+criterion.achievement_helper.red	Red cat	红虎斑猫
+criterion.achievement_helper.siamese	Siamese cat	暹罗猫
+criterion.achievement_helper.british_shorthair	British shorthair cat	英国短毛猫
+criterion.achievement_helper.calico	Calico cat	三花猫
+criterion.achievement_helper.persian	Persian cat	波斯猫
+criterion.achievement_helper.ragdoll	Ragdoll cat	布偶猫
+criterion.achievement_helper.white	White cat	白猫
+criterion.achievement_helper.jellie	Jellie cat	Jellie 猫
+criterion.achievement_helper.all_black	Black cat	黑猫
+criterion.achievement_helper.wolf.pale	Pale wolf	苍狼
+criterion.achievement_helper.wolf.spotted	Spotted wolf	斑点狼
+criterion.achievement_helper.wolf.snowy	Snowy wolf	雪狼
+criterion.achievement_helper.wolf.black	Black wolf	黑狼
+criterion.achievement_helper.wolf.ashen	Ashen wolf	灰狼
+criterion.achievement_helper.wolf.rusty	Rusty wolf	赤狼
+criterion.achievement_helper.wolf.woods	Woods wolf	森林狼
+criterion.achievement_helper.wolf.chestnut	Chestnut wolf	栗狼
+criterion.achievement_helper.wolf.striped	Striped wolf	条纹狼
+criterion.achievement_helper.cold	Cold frog	寒带青蛙
+criterion.achievement_helper.temperate	Temperate frog	温带青蛙
+criterion.achievement_helper.warm	Warm frog	热带青蛙
+criterion.achievement_helper.task	Complete the action described above	完成上方说明的操作
+criterion.achievement_helper.place_creaking_heart_awake	Place an awake creaking heart	放置苏醒的嘎枝之心
+criterion.achievement_helper.place_creaking_heart_dormant	Place a dormant creaking heart	放置休眠的嘎枝之心
+criterion.achievement_helper.place_pale_oak_log	Activate a creaking heart by placing a pale oak log	放置苍白橡木原木，使嘎枝之心生效
+criterion.achievement_helper.killed_by_something	Be killed by a mob	被生物杀死
+criterion.achievement_helper.killed_something	Kill a mob	杀死生物
+criterion.achievement_helper.desert_pyramid	Brush at a desert pyramid	在沙漠神殿考古
+criterion.achievement_helper.desert_well	Brush at a desert well	在沙漠水井考古
+criterion.achievement_helper.has_sherd	Obtain a pottery sherd	获得陶片
+criterion.achievement_helper.ocean_ruin_cold	Brush at a cold ocean ruin	在冷水海底废墟考古
+criterion.achievement_helper.ocean_ruin_warm	Brush at a warm ocean ruin	在暖水海底废墟考古
+criterion.achievement_helper.trail_ruins_common	Brush a common trail ruins block	清扫古迹废墟的普通战利品方块
+criterion.achievement_helper.trail_ruins_rare	Brush a rare trail ruins block	清扫古迹废墟的稀有战利品方块
+criterion.achievement_helper.distract_piglin	Distract with a dropped gold item	用掉落的金质物品分散猪灵注意力
+criterion.achievement_helper.distract_piglin_directly	Give gold directly to a piglin	直接给予猪灵金质物品
+criterion.achievement_helper.loot_bastion_bridge	Open a bastion bridge chest	打开堡垒遗迹桥梁宝箱
+criterion.achievement_helper.loot_bastion_hoglin_stable	Open a bastion hoglin stable chest	打开堡垒遗迹疣猪兽棚宝箱
+criterion.achievement_helper.loot_bastion_other	Open another bastion chest	打开其他堡垒遗迹宝箱
+criterion.achievement_helper.loot_bastion_treasure	Open a bastion treasure chest	打开堡垒遗迹藏宝室宝箱

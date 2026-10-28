@@ -1,0 +1,126 @@
+id	en_us	zh_cn
+story/root	Obtain a crafting table. Punch a tree, turn logs into planks, then use four planks in your inventory crafting grid.	获得工作台。先采集原木并合成木板，再用四块木板合成工作台。
+story/mine_stone	Mine stone with a pickaxe and collect cobblestone, cobbled deepslate, or blackstone.	用镐挖掘并拾取圆石、深板岩圆石或黑石。
+story/upgrade_tools	Craft and obtain a stone pickaxe using stone-tier material and sticks.	使用圆石等石质材料和木棍合成并获得石镐。
+story/smelt_iron	Smelt raw iron in a furnace or blast furnace, then collect an iron ingot.	在熔炉或高炉中烧炼粗铁，取出铁锭。
+story/obtain_armor	Craft or find any iron armor piece and put it in your inventory.	合成或找到任意一件铁盔甲，并放入物品栏。
+story/lava_bucket	Use an empty bucket on a lava source block. Flowing lava cannot be collected.	用空桶对熔岩源方块使用；流动的熔岩无法装桶。
+story/iron_tools	Craft or obtain an iron pickaxe. Three iron ingots and two sticks are enough.	用三块铁锭和两根木棍合成铁镐，或通过其他方式获得铁镐。
+story/deflect_arrow	Raise a shield before a skeleton's arrow hits you. Leave enough time for the shield to activate.	在骷髅的箭命中前举起盾牌，预留盾牌生效的时间。
+story/form_obsidian	Pour water over a lava source, mine the resulting obsidian with a diamond or netherite pickaxe, and collect it.	用水接触熔岩源生成黑曜石，再用钻石镐或下界合金镐挖掘并拾取。
+story/mine_diamond	Mine diamond ore with an iron pickaxe or better and collect a diamond. Looted diamonds also work.	使用铁镐或更好的镐挖掘钻石矿并拾取钻石，也可以从战利品中获得钻石。
+story/enter_the_nether	Build a rectangular obsidian portal with an opening at least 2 by 3, light it, and step through.	搭建内部至少为 2×3 的黑曜石传送门，点燃后穿过传送门。
+story/shiny_gear	Obtain any diamond armor piece; enchanting it is unnecessary.	获得任意一件钻石盔甲，不需要附魔。
+story/enchant_item	Use an enchanting table to enchant an item. Bring lapis lazuli and experience levels.	带上青金石和足够的经验等级，在附魔台上为物品附魔。
+story/cure_zombie_villager	Give a zombie villager Weakness, then use a regular golden apple on it. Keep it sheltered and wait for the cure.	让僵尸村民获得虚弱效果，再对它使用普通金苹果。保护它免受阳光和伤害，等待治愈完成。
+story/follow_ender_eye	Follow thrown eyes of ender, then enter the stronghold they lead to. Bring spare eyes because they can break.	投掷末影之眼并沿指引寻找要塞，进入要塞。末影之眼可能破碎，建议多带一些。
+story/enter_the_end	Fill the stronghold portal's empty frames with eyes of ender and enter the activated portal.	用末影之眼填满要塞末地传送门的空框架，再跳入激活的传送门。
+nether/root	Travel into the Nether through a Nether portal.	穿过下界传送门进入下界。
+nether/return_to_sender	Hit a ghast's fireball back at it and kill the ghast with the reflected fireball.	把恶魂发射的火球打回去，用反弹的火球杀死恶魂。
+nether/find_bastion	Enter a bastion remnant in the Nether. Gold armor does not make piglin brutes friendly.	进入下界的堡垒遗迹。即使穿着金盔甲，猪灵蛮兵仍然会攻击你。
+nether/obtain_ancient_debris	Mine and collect ancient debris using a diamond or netherite pickaxe. Bring fire resistance for lava pockets.	用钻石镐或下界合金镐挖掘并拾取远古残骸；准备抗火药水以应对熔岩。
+nether/fast_travel	Use the Nether to travel between Overworld portal positions at least 7,000 blocks apart horizontally. Nether travel scales 1:8.	借助下界在主世界水平距离至少 7000 格的传送门位置之间移动。下界与主世界的水平距离比例为 1:8。
+nether/find_fortress	Enter the bounding area of a Nether fortress. Search open lava oceans for its dark brick bridges.	进入下界要塞范围，可以沿开阔熔岩海寻找深色下界砖桥梁。
+nether/obtain_crying_obsidian	Collect crying obsidian from a ruined portal, bastion loot, or piglin bartering.	从废弃传送门、堡垒遗迹战利品或猪灵交易中获得哭泣的黑曜石。
+nether/distract_piglin	Give a gold item to an adult piglin while it is attacking you. A gold ingot is a convenient choice.	在成年猪灵攻击你时给它金质物品，使它分心。金锭是方便的选择。
+nether/ride_strider	Saddle a strider and ride it while holding a warped fungus on a stick.	给炽足兽装上鞍，骑乘它并手持诡异菌钓竿。
+nether/uneasy_alliance	Bring a ghast through a large Nether portal into the Overworld, then kill it there.	用足够大的下界传送门把恶魂带到主世界，再在主世界杀死它。
+nether/loot_bastion	Open a loot chest in a bastion remnant. Prepare an escape route because nearby piglins become angry.	打开堡垒遗迹中的战利品箱。附近猪灵可能被激怒，提前准备撤退路线。
+nether/netherite_armor	Obtain a full set of netherite armor. Upgrade each diamond armor piece at a smithing table with a netherite upgrade template and ingot.	获得全套下界合金盔甲。用下界合金升级锻造模板和下界合金锭，在锻造台升级每件钻石盔甲。
+nether/get_wither_skull	Kill wither skeletons until one drops a skull, then collect it. Looting improves the drop chance.	击杀凋灵骷髅并拾取掉落的头颅；抢夺附魔可以提高掉落概率。
+nether/obtain_blaze_rod	Kill a blaze in a Nether fortress and collect a blaze rod.	在下界要塞击杀烈焰人，拾取烈焰棒。
+nether/charge_respawn_anchor	Place a respawn anchor and charge it fully with four glowstone. Only use it to respawn in the Nether.	放置重生锚，用四块荧石充满能量。重生锚只能在下界安全设置重生点。
+nether/ride_strider_in_overworld_lava	Bring a strider to the Overworld, then ride it on lava for at least 50 blocks from your starting position.	把炽足兽带到主世界，骑着它在熔岩上移动，与起点至少相距 50 格。
+nether/explore_nether	Enter every required Nether biome in the checklist. A portal or a safe tunnel network makes revisits easier.	进入清单要求的每一种下界群系。建立传送门或安全隧道网络，方便后续补全。
+nether/summon_wither	Build a T of four soul sand or soul soil blocks, then place three wither skeleton skulls across the top. Place a skull last.	用四块灵魂沙或灵魂土搭成 T 形，上方放三个凋灵骷髅头颅，最后放置一个头颅以召唤凋灵。
+nether/brew_potion	Use a brewing stand with blaze powder fuel and collect a brewed potion from a bottle slot.	给酿造台加入烈焰粉燃料，酿造药水后从药水槽中取出。
+nether/create_beacon	Craft a beacon from a Nether star, glass, and obsidian. Place it on a valid mineral pyramid with an unobstructed beam.	用下界之星、玻璃和黑曜石合成信标，放在有效的矿物金字塔上，并确保光柱没有被阻挡。
+nether/all_potions	Have every potion effect required by this version active at the same time. Prepare potions, a turtle master potion, and a safe setup before starting.	同时拥有当前版本要求的全部药水效果。提前准备各种药水、神龟药水和安全的操作场地。
+nether/create_full_beacon	Activate a beacon on a complete four-layer mineral pyramid: 9×9, 7×7, 5×5, and 3×3 layers, totaling 164 blocks.	激活四层完整矿物金字塔上的信标；四层分别是 9×9、7×7、5×5 和 3×3，共需 164 个矿物方块。
+nether/all_effects	Apply every status effect required by this version simultaneously. Prepare potion effects plus environmental and mob effects in one location. Use the Wiki guide for a timed setup; this is one simultaneous condition, not a permanent collection checklist.	同时获得当前版本要求的所有状态效果。在同一地点准备药水、环境和生物提供的效果，并参考 Wiki 安排触发时机。此任务要求同时存在效果，不是永久累计收集清单。
+end/root	Enter the End through a stronghold portal.	通过要塞中的末地传送门进入末地。
+end/kill_dragon	Defeat the ender dragon. Destroy healing crystals first and bring a bow, blocks, and slow falling potions.	击败末影龙。先破坏治疗它的末地水晶，准备弓、方块和缓降药水。
+end/dragon_egg	Collect the dragon egg. Teleport it off the portal, then let it fall onto a torch or move it with a piston.	拾取龙蛋。先让龙蛋瞬移离开传送门，再让它下落到火把上，或用活塞推动使其掉落。
+end/enter_end_gateway	Enter an End gateway to reach the outer islands. Throwing an ender pearl into its center is convenient.	进入末地折跃门前往外岛；可以向折跃门中心投掷末影珍珠。
+end/respawn_dragon	Place four end crystals, one at the center of each side of the exit portal, to start resummoning the dragon.	在末地返回传送门的四边中央各放一颗末地水晶，开始重新召唤末影龙。
+end/dragon_breath	Use an empty glass bottle on the purple dragon breath cloud to collect dragon's breath.	对末影龙吐出的紫色龙息云使用空玻璃瓶，收集龙息。
+end/find_end_city	Enter an End city on an outer island. Search large islands; some cities have an End ship.	进入末地外岛上的末地城。优先探索大型岛屿，部分末地城附近有末地船。
+end/elytra	Collect elytra from the item frame in an End ship's treasure room.	从末地船宝藏室的物品展示框中取得鞘翅。
+end/levitate	While affected by a shulker's Levitation, move at least 50 blocks vertically. Plan a safe landing or use an ender pearl to assist.	在潜影贝施加的飘浮效果期间产生至少 50 格的垂直位移。准备安全落点，也可利用末影珍珠辅助。
+adventure/root	Kill a mob or be killed by one. Ordinary survival combat unlocks this tab.	杀死一个生物或被生物杀死，正常的生存战斗即可解锁该分类。
+adventure/voluntary_exile	Kill a raid captain outside a raid and collect the ominous bottle it drops.	在袭击之外击杀袭击队长，并拾取它掉落的不祥之瓶。
+adventure/spyglass_at_parrot	Look directly at a parrot through a spyglass. Parrots spawn in jungles.	用望远镜对准鹦鹉观察；鹦鹉可以在丛林中找到。
+adventure/kill_a_mob	Kill any one of the eligible hostile mobs. This advancement has alternatives, so you do not need every listed mob.	击杀任意一种符合条件的敌对生物即可。清单中的生物属于可选项，不需要全部击杀。
+adventure/trade	Complete a trade with a villager or wandering trader and take the output item.	与村民或流浪商人完成一笔交易，并取走交易产物。
+adventure/honey_block_slide	Fall alongside a honey block and slide down its side instead of landing on its top.	从蜂蜜块旁下落，贴着蜂蜜块侧面滑下，而不是落在顶部。
+adventure/ol_betsy	Fire a loaded crossbow. The projectile does not have to hit anything.	装填并发射弩，不要求命中目标。
+adventure/lightning_rod_with_villager_no_fire	Let a lightning rod redirect lightning near a villager without setting the area on fire. Build the rod and villager shelter before a thunderstorm.	让避雷针在村民附近引雷且不引发火灾。在雷暴前准备好避雷针和村民的保护设施。
+adventure/sleep_in_bed	Sleep in a bed in the Overworld at night or during a thunderstorm.	在主世界的夜晚或雷暴期间使用床睡觉。
+adventure/hero_of_the_village	Trigger a village raid using Raid Omen, then defeat the raid. Protect the villagers throughout the fight.	通过袭击之兆在村庄触发袭击，并击败袭击。战斗中保护好村民。
+adventure/spyglass_at_ghast	Look directly at a ghast through a spyglass while exploring the Nether.	在下界使用望远镜对准恶魂观察。
+adventure/throw_trident	Hit an entity with a thrown trident. Obtain a trident from a drowned that carries one.	投掷三叉戟并命中实体。可以从持有三叉戟的溺尸处获取三叉戟。
+adventure/shoot_arrow	Hit an entity with a projectile fired from a bow or crossbow.	用弓或弩发射的弹射物命中实体。
+adventure/kill_all_mobs	Kill every required hostile mob at least once. Track this advancement and use the remaining checklist; mobs outside this version's requirements do not count.	将清单要求的每一种敌对生物至少击杀一次。可以追踪此进度并查看未完成列表；不在当前版本要求中的生物不计入。
+adventure/totem_of_undying	Hold a totem of undying in either hand when you would otherwise die. Keep it equipped before taking the final damage.	受到致命伤害时，主手或副手持有不死图腾。提前把图腾拿在手中。
+adventure/summon_iron_golem	Build an iron golem using four iron blocks in a T and a carved pumpkin or jack o'lantern on top, placed last.	用四块铁块摆成 T 形，再把雕刻南瓜或南瓜灯放在顶端中央，最后放置南瓜。
+adventure/trade_at_world_height	Complete a villager trade at the world build limit. Transport the villager safely to the top before trading.	在世界建筑高度上限处与村民完成交易，提前把村民安全运到顶部。
+adventure/two_birds_one_arrow	Use a Piercing crossbow to kill two phantoms with a single arrow. Weaken and align the phantoms first.	用带穿透附魔的弩，一箭杀死两只幻翼。先削弱血量并让它们处于同一射线上。
+adventure/whos_the_pillager_now	Kill a pillager using a crossbow.	使用弩击杀一名掠夺者。
+adventure/arbalistic	Kill five different mob types with one crossbow shot. Use Piercing IV, line up weakened targets, and keep the projectile path clear.	用一次弩射击杀死五种不同生物。可使用穿透 IV，排好已削弱血量的目标，确保弹射路径畅通。
+adventure/adventuring_time	Visit every required Overworld biome. Enter the biome itself; seeing it from a distance is insufficient. Use the checklist to plan missing destinations; only required biomes count.	亲自进入清单要求的每一种主世界群系，远远看见不算。根据未完成列表规划路线；只统计当前进度要求的群系。
+adventure/play_jukebox_in_meadows	Play a music disc in a jukebox located in a meadow biome.	在草甸群系的唱片机中播放音乐唱片。
+adventure/walk_on_powder_snow_with_leather_boots	Equip leather boots and walk on top of powder snow without sinking.	穿上皮革靴子，在细雪表面行走而不陷入其中。
+adventure/spyglass_at_dragon	Look directly at the ender dragon through a spyglass.	用望远镜对准末影龙观察。
+adventure/very_very_frightening	Strike a villager with lightning. A Channeling trident during a thunderstorm is a controlled way to do this.	让闪电击中村民。雷暴期间使用引雷三叉戟可以更方便地触发。
+adventure/sniper_duel	Kill a skeleton with a projectile from at least 50 blocks away horizontally. Mark a firing position and stop the skeleton from approaching.	在水平距离至少 50 格的位置，用弹射物击杀骷髅。提前标记射击点并限制骷髅移动。
+adventure/bullseye	Hit the exact center of a target block with a projectile from at least 30 blocks away. Practice the aim with a bow.	在至少 30 格外用弹射物命中标靶正中心，可以先用弓练习瞄准。
+adventure/fall_from_world_height	Fall from the Overworld build limit down to its bottom and survive. Prepare a clear shaft and a water landing before jumping.	从主世界建筑高度上限下落到世界底部并存活。跳下前清理通道，准备水作为落点。
+adventure/avoid_vibration	Sneak near a sculk sensor or warden to avoid producing detectable movement vibrations.	在幽匿感测体或监守者附近潜行，避免移动产生可检测的振动。
+adventure/kill_mob_near_sculk_catalyst	Kill a mob that drops experience near a sculk catalyst so the catalyst blooms.	在幽匿催发体附近击杀会掉落经验的生物，使催发体绽放。
+adventure/read_power_of_chiseled_bookshelf	Place a comparator facing out of a chiseled bookshelf and interact with a book slot so the comparator reads it.	让比较器从雕纹书架读取信号，再与书槽交互，使比较器检测书架状态。
+adventure/trim_with_any_armor_pattern	Use a smithing table to apply any armor trim template and a valid material to an armor piece.	在锻造台使用任意盔甲纹饰模板和有效材料，为一件盔甲添加纹饰。
+adventure/trim_with_all_exclusive_armor_patterns	Apply each required trim pattern at least once at a smithing table. The checklist shows the required templates; other patterns do not substitute.	在锻造台分别使用每一种要求的纹饰。清单显示需要的模板，其他纹饰不能替代。
+adventure/salvage_sherd	Use a brush on suspicious sand or suspicious gravel and recover a pottery sherd.	用刷子清扫可疑的沙子或可疑的沙砾，取得陶片。
+adventure/craft_decorated_pot_using_only_sherds	Craft a decorated pot with four pottery sherds and no bricks. The sherd patterns may repeat.	只用四块陶片合成饰纹陶罐，不使用红砖。陶片图案可以重复。
+adventure/brush_armadillo	Use a brush on an armadillo to obtain an armadillo scute.	对犰狳使用刷子，获得犰狳鳞甲。
+adventure/crafters_crafting_crafters	Configure a crafter with the recipe for another crafter, then power it to perform the craft.	在合成器中放入另一个合成器的配方，再用红石信号触发合成。
+adventure/minecraft_trials_edition	Enter a trial chamber underground. A trial explorer map from a cartographer can help locate one.	进入地下试炼密室，可以用制图师提供的试炼探险家地图寻找。
+adventure/lighten_up	Scrape oxidation from a copper bulb with an axe to increase its brightness.	用斧头刮除铜灯的氧化层，使其变亮。
+adventure/under_lock_and_key	Use a trial key on a vault that you have not yet looted. Trial keys can be rewarded by trial spawners.	对尚未被你开启过的宝库使用试炼钥匙；试炼刷怪笼可能奖励钥匙。
+adventure/revaulting	Use an ominous trial key on an ominous vault you have not yet looted. Obtain the key from ominous trials.	对尚未被你开启过的不祥宝库使用不祥试炼钥匙；钥匙可以从不祥试炼中获得。
+adventure/blowback	Kill a breeze with a wind charge you reflected back. Hit its incoming wind charge at the right moment.	把旋风人发射的风弹反弹回去，并用反弹风弹击杀旋风人；注意把握攻击时机。
+adventure/who_needs_rockets	Use a wind charge to launch yourself upward at least seven blocks. Aim beneath your feet and time your jump.	用风弹把自己向上弹起至少七格；瞄准脚下并配合跳跃。
+adventure/overoverkill	Deal at least 50 hearts of damage with one mace hit. Build enough fall height for a smash attack and choose a durable target.	用重锤的一次攻击造成至少 50 颗心的伤害。利用足够的下落高度发动猛击，并选择耐打的目标。
+adventure/heart_transplanter	Place a creaking heart between two pale oak logs with all three axes aligned, making the heart dormant or awake. It does not need to be night.	把嘎枝之心放在两块苍白橡木原木之间，并让三者轴向一致，使其进入休眠或苏醒状态；不要求一定在夜晚完成。
+adventure/spear_many_mobs	Hit at least five mobs during one spear charge attack. Gather targets in a line and keep the charge moving through them.	在一次矛的冲锋攻击中命中至少五个生物。让目标排成一线，保持冲锋穿过它们。
+adventure/use_lodestone	Use a compass on a lodestone to bind the compass to that block. The compass will point to it while you are in the same dimension.	对磁石使用指南针，将指南针绑定到该磁石。在同一维度中，指南针会指向这个位置。
+husbandry/root	Consume an edible item. Ordinary food such as bread is enough to start this tab.	吃下可食用物品即可，例如面包。
+husbandry/plant_seed	Plant a valid crop, seed, or plant. A wheat seed on hydrated farmland is a simple option.	种下一种符合条件的作物、种子或植物。最简单的方式是在湿润耕地上种小麦种子。
+husbandry/breed_an_animal	Feed two adult compatible animals their breeding food and wait for a baby to appear.	给两只可繁殖的成年同类动物喂食对应食物，等待幼崽出生。
+husbandry/tame_an_animal	Tame an eligible animal. Wolves use bones, cats use raw fish, and horses require repeated riding.	驯服一种符合条件的动物。狼用骨头，猫用生鱼，马需要反复骑乘。
+husbandry/fishy_business	Catch an item with a fishing rod and reel it in successfully.	用钓鱼竿钓到物品，并成功收竿。
+husbandry/safely_harvest_honey	Place a lit campfire below a bee nest or beehive, then use a glass bottle when its honey level is full. Keep the smoke path open.	在蜂巢或蜂箱下放置点燃的营火，蜂蜜装满后使用玻璃瓶采集，确保烟雾路径畅通。
+husbandry/silk_touch_nest	Use a Silk Touch tool to collect a bee nest containing three bees. Wait until all three have entered before breaking it.	等三只蜜蜂都进入蜂巢后，用带精准采集的工具采集这个蜂巢。
+husbandry/balanced_diet	Eat every food required by the checklist at least once. Save rare foods and keep track of the remaining entries; drinks that are not required do not count.	把清单要求的每一种食物至少吃一次。提前收集稀有食物，并查看未完成项目；不在要求内的饮品不计入。
+husbandry/obtain_netherite_hoe	Upgrade a diamond hoe with a netherite upgrade template and netherite ingot, then obtain the resulting netherite hoe.	使用下界合金升级锻造模板和下界合金锭升级钻石锄，取得下界合金锄。
+husbandry/bred_all_animals	Breed every required animal type. Some require special habitats or food; the remaining checklist uses the world's actual requirements.	繁殖清单要求的每一种动物。部分动物需要特殊环境或食物，未完成清单以当前世界的实际要求为准。
+husbandry/complete_catalogue	Tame every required cat variant with raw cod or raw salmon. Search multiple villages; the black cat can also be found at swamp huts.	用生鳕鱼或生鲑鱼驯服所有要求的猫变种。探索多个村庄，黑猫也可在沼泽小屋找到。
+husbandry/tactical_fishing	Use a water bucket on an eligible fish to collect it alive. Fish caught with a rod do not meet this requirement.	用水桶对准符合条件的鱼，活体装桶；钓鱼竿钓出的鱼不能代替。
+husbandry/axolotl_in_a_bucket	Use a water bucket on an axolotl. Look in the water of lush caves.	在繁茂洞穴的水中寻找美西螈，用水桶将它装起来。
+husbandry/kill_axolotl_target	Help an axolotl kill its combat target and receive its regeneration effect. Bring an axolotl to an aquatic fight.	帮助美西螈击杀它正在攻击的目标，获得它给予的生命恢复效果。可以带美西螈参加水下战斗。
+husbandry/wax_on	Use honeycomb on a waxable copper block to apply wax.	对可涂蜡的铜方块使用蜜脾，给方块涂蜡。
+husbandry/wax_off	Use an axe on a waxed copper block to remove its wax.	用斧头对涂蜡的铜方块使用，刮去蜡层。
+husbandry/make_a_sign_glow	Use a glow ink sac on a sign or hanging sign to make its text glow.	对告示牌或悬挂式告示牌使用荧光墨囊，使文字发光。
+husbandry/ride_a_boat_with_a_goat	Get a goat into a boat, then ride in the same boat with it.	让山羊进入船，再与它乘坐同一艘船。
+husbandry/allay_deliver_item_to_player	Give an allay an item, drop matching items nearby, and let it bring one back to you.	给悦灵一个物品，在附近丢下同类物品，让悦灵拾取并带回给你。
+husbandry/allay_deliver_cake_to_note_block	Give an allay a cake and activate a nearby note block. Drop another cake and let the allay deliver it to that note block.	给悦灵一个蛋糕，激活附近的音符盒，再丢下另一个蛋糕，让悦灵把它送到音符盒。
+husbandry/tadpole_in_a_bucket	Use a water bucket to collect a tadpole. Breed frogs with slimeballs to produce frogspawn first.	用水桶装起蝌蚪。先用黏液球繁殖青蛙，使其产卵并孵化。
+husbandry/leash_all_frog_variants	Attach leads to all three frog variants. Raise tadpoles in different temperature biomes to obtain the variants.	给三种青蛙变种都拴上拴绳。让蝌蚪在不同温度的群系长大，以获得不同变种。
+husbandry/froglights	Obtain all three froglight colors. Different frog variants create different froglights when they eat small magma cubes; gather all three in your inventory.	获得三种颜色的蛙明灯。不同青蛙变种吞食小型岩浆怪后会生成不同颜色的蛙明灯，将三种都收入物品栏。
+husbandry/obtain_sniffer_egg	Brush suspicious sand in a warm ocean ruin until you find a sniffer egg, then collect it.	在暖水海底废墟中清扫可疑的沙子，找到并拾取嗅探兽蛋。
+husbandry/feed_snifflet	Feed a baby sniffer torchflower seeds. Hatch a sniffer egg and keep seeds ready before it grows up.	给幼年嗅探兽喂食火把花种子。在嗅探兽蛋孵化前准备好种子，避免它长大后才喂食。
+husbandry/plant_any_sniffer_seed	Plant a torchflower seed or pitcher pod dug up by a sniffer.	种下嗅探兽挖出的火把花种子或瓶子草荚果。
+husbandry/whole_pack	Tame every required wolf variant with bones. Search different biomes for the variants shown in the checklist.	用骨头驯服清单要求的每一种狼变种，前往不同群系寻找缺少的变种。
+husbandry/remove_wolf_armor	Use shears on your tamed wolf to remove its wolf armor.	对穿着狼铠的已驯服狼使用剪刀，卸下狼铠。
+husbandry/repair_wolf_armor	Use armadillo scutes on your wolf while it wears damaged wolf armor to repair the armor.	狼穿着受损狼铠时，对它使用犰狳鳞甲修复狼铠。
+husbandry/place_dried_ghast_in_water	Waterlog a dried ghast block by placing it in water or adding water to it. Leave it submerged if you want it to grow.	把干恶魂放入水中，或对它加水，使其含水。若想让它继续生长，请保持浸水。

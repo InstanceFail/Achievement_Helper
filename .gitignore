@@ -1,5 +1,7 @@
 ### Gradle ###
 .gradle
+.tools/
+run-smoke/
 build/
 !gradle/wrapper/gradle-wrapper.jar
 !**/src/**/build/

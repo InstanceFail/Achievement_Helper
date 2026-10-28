@@ -1,0 +1,1 @@
+PASS: full catalogue, bilingual guides, live progress, tracking persistence, auto-untrack, revocation, HUD drag, scale controls, saved HUD settings, screen bounds, completed/incomplete rows.
